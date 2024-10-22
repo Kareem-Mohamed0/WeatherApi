@@ -41,7 +41,7 @@ namespace WeatherApi
             app.MapControllers();
 
             app.Run();
-            //This comment from VisualStudio
+            //Comment from github
         }
     }
 }
